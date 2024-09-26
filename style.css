@@ -50,9 +50,9 @@ body {
     /* 撐開內邊距 */
     padding: 3%;
     /* 陰影 */
-    box-shadow: 1px 1px 1px 1px rgba(6, 31, 222, 0.2);
+    box-shadow: 1px 1px 1px 1px rgba(249, 249, 249, 0.2);
     /* 外框 */
-    border: 1px solid #08e83d70;
+    border: 1px solid #00060170;
     /* 變形, 幅度為 .3rem (圓角矩形) */
     border-radius: .3rem;
     /* 過度動畫長度指定半秒鐘 */
